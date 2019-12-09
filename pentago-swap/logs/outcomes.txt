@@ -1,0 +1,9 @@
+1,260663577,RandomPlayer,0,260663577,11,game00001.log,
+2,RandomPlayer,260663577,1,260663577,7,game00002.log,
+3,260663577,RandomPlayer,1,RandomPlayer,9,game00003.log,TIMEOUT
+4,260663577,RandomPlayer,0,260663577,11,game00004.log,
+5,RandomPlayer,260663577,1,260663577,7,game00005.log,
+6,260663577,RandomPlayer,0,260663577,11,game00006.log,
+7,RandomPlayer,260663577,1,260663577,7,game00007.log,
+8,260663577,RandomPlayer,0,260663577,11,game00008.log,
+9,RandomPlayer,260663577,1,260663577,7,game00009.log,
